@@ -1,0 +1,1 @@
+{"jobID":"ebb140b2-95c1-31d8-4e68-6674758db0ad","spec":{"type":"policy","cause":{"Message":"","User":"manuel greifzu \u003cmanuel.greifzu@audi.de\u003e"},"spec":{"dev:deployment/brice":{"add":null,"remove":{"automated":"true"}}}},"result":null}
