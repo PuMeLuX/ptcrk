@@ -1,0 +1,1 @@
+{"jobID":"f4b277fe-0d8f-8530-b83b-b04dbc070f13","spec":{"type":"policy","cause":{"Message":"","User":"manuel greifzu \u003cmanuel.greifzu@audi.de\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
