@@ -23,21 +23,10 @@ spec:
       - name: metrics-demo
         image: quay.io/brice/metrics-demo:v4-subsription-service
         command:
-       # - ./metrics-demo
+        - ./metrics-demo
         - --port=3000
         ports:
         - containerPort: 3000
-        readinessProbe:
-          httpGet:
-            path: /readyz
-            port: 3000
-          initialDelaySeconds: 1
-          periodSeconds: 5
-          failureThreshold: 1
-        livenessProbe:
-          httpGet:
-            path: /healthz
-            port: 3000
           initialDelaySeconds: 1
           periodSeconds: 10
           failureThreshold: 2
