@@ -1,0 +1,1 @@
+{"jobID":"b63e3ba9-49df-09c9-b3f9-5db49750ce92","spec":{"type":"policy","cause":{"Message":"","User":"Stefan Lux \u003cstefan.lux@audi.de\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
